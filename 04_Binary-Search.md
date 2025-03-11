@@ -1,4 +1,4 @@
-- **Binary Search on Array**
+### **Binary Search on Array**
   - **Easy**
     - [Binary Search](https://leetcode.com/problems/binary-search/description/)
     - [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)
@@ -11,7 +11,7 @@
     - [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
     - [Median in a Row-wise Sorted Matrix](https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1)
 
-- **Binary Search on Answer**
+### **Binary Search on Answer**
   - **Easy**
     - [Square Root](https://leetcode.com/problems/sqrtx/description/)
     - [Find nth Root of m](https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1)
