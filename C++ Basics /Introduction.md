@@ -1,26 +1,24 @@
-# Programming Basics / Introduction
+### Compiler vs Interpreter
+- **Compiler** translates the entire program into machine code at once.
+- **Interpreter** translates and executes code line by line.
 
-## 1. Compiler VS Interpreter
-- **Compiler**: Translates the entire program into machine code before execution.
-- **Interpreter**: Translates and executes the program line by line.
+### Statically Typed vs Dynamically Typed
+- **Statically Typed**: Variable types are defined at compile time (e.g., C++).
+- **Dynamically Typed**: Variable types are determined at runtime (e.g., Python).
 
-## 2. Statically Typed vs Dynamically Typed
-- **Statically Typed**: Variables must be declared with a type at compile time.
-- **Dynamically Typed**: Variable types are determined at runtime.
+### Keywords vs Identifiers
+- **Keywords**: Reserved words in C++ (e.g., `int`, `return`, `class`).
+- **Identifiers**: Names given to variables, functions, etc. (e.g., `x`, `myFunction`).
 
-## 3. Keywords vs Identifiers
-- **Keywords**: Reserved words in the programming language (e.g., `int`, `float`, `return`).
-- **Identifiers**: Names given to variables, functions, etc.
+### Header Files
+- Include files that declare functions, classes, and variables (e.g., `<iostream>`).
 
-## 4. Header Files
-Header files contain definitions of functions, macros, and constants.
+### Namespace
+- A scope to organize code and avoid name conflicts. C++ uses `namespace std`.
 
-## 5. Namespace
-Namespaces allow the organization of code into logical groups to prevent name collisions.
-
-## 6. First C++ Program
-```
-# include <iostream>
+### First C++ Program Example
+```cpp
+#include <iostream>
 using namespace std;
 
 int main() {
@@ -29,27 +27,30 @@ int main() {
 }
 ```
 
-## 7. Comments
-- **Single-line comment**: // This is a comment
-- **Multi-line comment**: /* This is a multi-line comment */
+### Comments
+- **Single-line**: `// comment`
+- **Multi-line**: `/* comment */`
 
-## 8. Identifier Naming Rules
-- Identifiers must begin with a letter or an underscore.
-- Subsequent characters can include letters, digits, and underscores.
+### Identifier Naming Rules
+- Must start with a letter or underscore.
+- Can contain letters, digits, and underscores.
+- Cannot be a keyword.
 
-## 9. Data Types
+### Data Types
 
-### Primitive Data Types
-- **short, int, long, long long, char**
-- **unsigned**
-- **float, double, long double**
-- **bool, void**
+#### Primitive Types
+- **Integer**: `short`, `int`, `long`, `long long`, `char`
+- **Unsigned**: `unsigned short`, `unsigned int`, etc.
+- **Floating Point**: `float`, `double`, `long double`
+- **Boolean**: `bool`
+- **Void**: No type
 
-### Non-Primitive Data Types
-- Arrays, vectors, strings, pointers, user-defined types.
+#### Non-Primitive Types
+- **Arrays**, **Vectors**, **Strings**, **Pointers**, **User-defined types**
 
-## 10. sizeof Operator
-The sizeof operator returns the size of a data type or variable in bytes.
+### Sizeof Operator
+- Returns the size (in bytes) of a data type or object.
+
 | Data Type             | No. of Bits | Range                                   | Mathematical Representation           |
 |-----------------------|-------------|-----------------------------------------|----------------------------------------|
 | char                  | 8           | -128 to 127                             | (-2⁷ to 2⁷ - 1)                       |
@@ -63,69 +64,69 @@ The sizeof operator returns the size of a data type or variable in bytes.
 | double                | 64          | ±2.23 × 10⁻³⁰⁸ to ±1.80 × 10³⁰⁸       | (±2⁻¹⁰²² to ±2¹⁰²⁴)                  |
 | bool                  | 8           | 0 to 1                                  | (0 to 1)                              |
 
+### Variable Scope
+- **Block Scope**: Variables inside curly brackets `{}`.
+- **Global Scope**: Variables defined outside functions.
 
-## 11. Scope of Variables
-- Variables have different scopes (function, loop, or block scope).
-- static keyword restricts the lifetime of a variable to the duration of the program.
+### Static Keyword
+- Retains variable value between function calls.
 
-## 12. Keywords: static, const, auto, etc.
-- const: Makes a variable immutable.
-- auto: Automatically deduces the type of a variable.
-- static: Ensures the variable retains its value between function calls and limits its scope to the function or file.
+### Const Keyword
+- Used to define constants.
 
-## 13. Data Types and Literals
+### Auto Keyword
+- Automatically infers the type of the variable.
 
-### Integer Literals
-- Decimal: int x = 9;
-- Hexadecimal: int x = 0xF;
-- Octal: int x = 07;
-- Binary: int x = 0b01;
-- Long Long: long long int x = 2ll;
+### Literals
 
-### Floating Point Literals
-- float x = 10.515f;
-- double x = 10.515;
-- long double x = 10.515l;
+Literals are fixed values used in programming that represent data directly.
 
-### Scientific Notation
-- float x = 2.1e15f;
-- double x = 2.1e15;
-- long double x = 2.1e15l;
+#### Integer Literals
+- **Decimal**: `int x = 9;`
+- **Hexadecimal**: `int x = 0xF;` (Starts with `0x` for hex numbers)
+- **Octal**: `int x = 07;` (Starts with `0` for octal numbers)
+- **Binary**: `int x = 0b01;` (Starts with `0b` for binary numbers)
+- **Long Long Integer**: `long long int x = 2ll;` (Ends with `ll` for long long)
 
-### Character and String
-- char
-- string
+#### Floating-point Literals
+- **float**: `float x = 10.515f;` (Ends with `f` for float)
+- **double**: `double x = 10.515;` (Default type for floating-point literals)
+- **long double**: `long double x = 10.515l;` (Ends with `l` for long double)
 
-## 14. Type Conversion
+#### Exponential Notation
+- **float**: `float x = 2.1e15f;` (Scientific notation for floating-point)
+- **double**: `double x = 2.1e15;`
+- **long double**: `long double x = 2.1e15l;`
 
-### Implicit Conversion
-- Implicit conversion happens automatically by the compiler.
-    ```int x = 10.5;```
+#### Character Literals
+- **char**: `'A'` (Single characters enclosed in single quotes)
+- **Escape Sequences**: `'\\'`, `'\n'`, `'\t'`
 
-### Explicit Conversion
-- Explicit conversion requires the use of a cast.
-    ```double z = double(x) / y;```
+#### String Literals
+- **string**: `"Hello, World!"` (Strings are enclosed in double quotes)
 
-### Conversion Order
-- bool → char → int → long long → float → double → long double
+### Type Conversion
 
-## 15. Input and Output
+#### Implicit Conversion
+- Automatically done by the compiler (e.g., `int x = 10.5;`).
 
-### Input
-```
-cin >> x >> y;
-getline(cin, name);
-```
-### Output
-```
-cout << x << " " << y << endl;
-```
+#### Explicit Conversion
+- Done using casting (e.g., `double x = double(15) / 2;`).
 
-- **Other Output Streams**: cerr, ifstream, ofstream
-- **Setting precision**: cout << fixed << setprecision(5);
+#### Conversion Order
+- `bool → char → int → long long → float → double → long double`
 
-## 16. Simple Program Example
-```
+### Input/Output
+
+- **Input**: `cin >> x;`, `getline(cin, name);`
+- **Output**: `cout << x << " " << y << endl;`, `cerr` for errors.
+- **File I/O**: `ifstream`, `ofstream`
+
+#### Format Output
+- `cout << fixed << setprecision(5);`
+
+### Simple Program Example
+```cpp
 int x, y;
 cout << "Enter x: ";
 cin >> x;
@@ -134,15 +135,15 @@ cin >> y;
 cout << "Multiplication of " << x << " and " << y << " is: " << x * y << endl;
 ```
 
-## 17. Escape Sequences
-- `\n` : Newline
-- `\'` : Single quote
-- `\"` : Double quote
-- `\t` : Tab
-- `\0` : Null character
-- `\\` : Backslash
+### Escape Sequences
+- `\n` (new line)
+- `\'` (single quote)
+- `\"` (double quote)
+- `\t` (tab)
+- `\0` (null character)
+- `\\` (backslash)
 
-## 18. Operators
+### Operators
 - **Unary Operators:** `++`, `--`
 - **Arithmetic Operators:** `+`, `-`, `*`, `/`, `%`
 - **Relational Operators:** `<`, `<=`, `>`, `>=`, `==`, `!=`
@@ -151,7 +152,7 @@ cout << "Multiplication of " << x << " and " << y << " is: " << x * y << endl;
 - **Assignment Operators:** `=`, `+=`, `-=`, `*=`, `/=`, `%=`, `&=`, `|=`, `<<=`, `>>=`, `^=`
 - **Ternary or Conditional Operator:** `?:`
 
-# Operator Precedence
+#### Operator Precedence
 1. **Unary Operators:** `!`, `++`, `--`
 2. **Arithmetic Operators:** `*`, `/`, `%`
 3. **Unary Operators:** `+`, `-`
@@ -161,8 +162,7 @@ cout << "Multiplication of " << x << " and " << y << " is: " << x * y << endl;
 7. **Logical OR:** `||`
 8. **Assignment Operator:** `=`
 
-
-## 19. Questions for Practice
+### Questions for Practice
 1. [Leap Year](https://www.geeksforgeeks.org/problems/leap-year0943/1) using Ternary
 2. Last Digit of a Number
 3. First Digit of a Number
