@@ -97,16 +97,16 @@ signed main() {
 
 ### **Conceptual Questions**
 
-- void printList(Node *head)
-- Node *insertBegin(Node *head)
-- Node *insertEnd(Node *head) // Teach Tail Pointer
-- Node *deleteBegin(Node *head)
-- Node *deleteEnd(Node *head)
-- Node *insertPos(Node *head, int pos, int data)
-- Node *sortedInsert(Node *head, int data)
-- int middleLL(Node *head)
-- int kthFromEnd(Node *head)
-- Node *reverseLL(Node *head)
+- `void printList(Node *head) {}`
+- `Node *insertBegin(Node *head) {}`
+- `Node *insertEnd(Node *head) {}` // Teach Tail Pointer
+- `Node *deleteBegin(Node *head) {}`
+- `Node *deleteEnd(Node *head) {}`
+- `Node *insertPos(Node *head, int pos, int data) {}`
+- `Node *sortedInsert(Node *head, int data) {}`
+- `int middleLL(Node *head) {}`
+- `int kthFromEnd(Node *head) {}`
+- `Node *reverseLL(Node *head) {}`
 
 ---
 
