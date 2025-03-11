@@ -72,8 +72,8 @@ sort(arr.begin(), arr.end(), [](int a, int b) -> bool {
 The **capture list** defines how external variables are passed into the lambda. It can capture variables by **value** or by **reference**.
 
 #### Capture List Syntax:
-- **[]**: Captures nothing.
-- **[=]**: Captures variables by **value**.
-- **[&]**: Captures variables by **reference**.
-- **[=, &x]**: Captures all by **value** except `x`, which is captured by **reference**.
-- **[&, x]**: Captures all by **reference** except `x`, which is captured by **value**.
+- `[]`: Captures nothing.
+- `[=]`: Captures variables by **value**.
+- `[&]`: Captures variables by **reference**.
+- `[=, &x]`: Captures all by **value** except `x`, which is captured by **reference**.
+- `[&, x]`: Captures all by **reference** except `x`, which is captured by **value**.
