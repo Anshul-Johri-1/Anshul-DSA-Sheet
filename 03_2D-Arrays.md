@@ -17,7 +17,8 @@
     A 2D array with automatic row size determination, where 2 columns are defined.
 
 - **3D Array Initialization**:
-  - `int arr[][2][2] = {{{1, 2}, {3, 4}}, {{5, 6}, {7, 8}}};`  
+  - `int arr[][2][2] = {{{1, 2}, {3, 4}}, {{5, 6}, {7, 8}}};`
+    
     A 3D array with 2 blocks, each containing a 2x2 matrix.
 
 ---
