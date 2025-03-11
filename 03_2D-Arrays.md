@@ -29,8 +29,9 @@
   - ```cpp
     for(int i = 0; i < 3; i++) {  
         for(int j = 0; j < 2; j++) {  
-            // code  
-        }  
+            cout << mat[i][j] << " ";
+        }
+        cout << endl;
     }
     ```
 
@@ -38,8 +39,9 @@
   - ```cpp
     for(vector<int>& v : mat) {  
         for(int x : v) {  
-            // code  
-        }  
+            cout << x << " "; 
+        }
+        cout << endl;
     }
     ```
 
