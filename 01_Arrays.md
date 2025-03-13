@@ -142,5 +142,5 @@ int main() {
 
 - [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)
 - [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)
-- [Stock Buy and Sell – Max 2 Transactions Allowed](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/)
+- [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/)
 - [Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome/description/)
