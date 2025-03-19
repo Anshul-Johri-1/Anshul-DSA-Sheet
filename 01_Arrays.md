@@ -134,7 +134,7 @@ int main() {
     - [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)
     - [Next Permutation](https://leetcode.com/problems/next-permutation/description/)
     - [Factorials of Large Numbers](https://www.geeksforgeeks.org/problems/factorials-of-large-numbers2508/1)
-    - [Minimum Jumps to Reach End](https://www.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1)
+    - [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) + [Minimum Jumps to Reach End (-1 case)](https://www.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1)
     - [Rearrange Array in Max Min Form in O(1) Space](https://www.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1)
     - [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/)
 
