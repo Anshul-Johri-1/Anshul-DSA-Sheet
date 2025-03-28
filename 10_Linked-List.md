@@ -99,14 +99,14 @@ signed main() {
 
 - `void printList(Node *head) {}`
 - `Node *insertBegin(Node *head) {}`
-- `Node *insertEnd(Node *head) {}` // Teach Tail Pointer
+- `Node *insertEnd(Node *head) {}` // Teach Head and Tail Pointer
 - `Node *deleteBegin(Node *head) {}`
 - `Node *deleteEnd(Node *head) {}`
 - `Node *insertPos(Node *head, int pos, int data) {}`
-- `Node *sortedInsert(Node *head, int data) {}`
-- `int middleLL(Node *head) {}`
-- `int kthFromEnd(Node *head) {}`
-- `Node *reverseLL(Node *head) {}`
+- [Insert in a Sorted List](https://www.geeksforgeeks.org/problems/insert-in-a-sorted-list/1)
+- [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/)
+- [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
+- [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
 
 ---
 

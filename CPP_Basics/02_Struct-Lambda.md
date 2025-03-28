@@ -1,8 +1,8 @@
-# Struct
+## Struct
 
 A `struct` is a user-defined data type that groups related variables together. In C++, `struct` members are public by default, and they can store multiple data types.
 
-## Example of Struct
+### Example of Struct
 ```cpp
 struct Point {
     int x;
@@ -39,20 +39,18 @@ Student me = {10, "Anshul", "Delhi"};
 - **Struct**: Members are **public** by default.
 - **Class**: Members are **private** by default unless specified.
 
----
-
-# Lambda Functions
+## Lambda Functions
 
 A lambda function is an anonymous function that can be used to create short function objects.
 
-## Basic Syntax of Lambda
+### Basic Syntax of Lambda
 ```cpp
 auto lambda = [](int a, int b) -> bool {
     return a < b;
 };
 ```
 
-## Example Usage in Sorting
+### Example Usage in Sorting
 ```cpp
 bool cmp(int a, int b) {
     return a < b;

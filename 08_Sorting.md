@@ -38,7 +38,7 @@ In stable sorting, when two elements have the same key, their relative order is 
 - [Meeting Rooms](https://www.geeksforgeeks.org/problems/attend-all-meetings/1)
 - [Max Meetings in One Room](https://www.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1)
 
-#### **Medium)**
+#### **Medium**
 
 - [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)
 - [Meeting Rooms II](https://www.geeksforgeeks.org/problems/attend-all-meetings-ii/1)

@@ -1,5 +1,3 @@
-# Stack Operations
-
 ### Basic Operations:
 - **push(x)**: Adds element `x` to the top of the stack.
 - **pop()**: Removes the top element from the stack.
@@ -11,14 +9,14 @@
 - **Overflow**: Occurs when trying to push an element to a full stack (typically in array-based implementations).
 - **Underflow**: Occurs when trying to pop an element from an empty stack.
 
-## Stack Implementations:
+### Stack Implementations:
 - **Stack using Arrays**: Fixed size array, efficient access, but limited size.
    
 - **Stack using Linked List**: Dynamic size, no overflow but requires extra memory for pointers.
 
 - **Stack using STL**: Standard Template Library (STL) in C++ provides `std::stack`, which abstracts stack operations and ensures dynamic resizing.
 
-## Monotonic Stack
+### Monotonic Stack
 
 #### Medium:
 - [Stock Span Problem](https://www.geeksforgeeks.org/problems/stock-span-problem-1587115621/1)
@@ -33,7 +31,7 @@
 - [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)
 - [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/)
 
-## Infix, Prefix, Postfix Operations
+### Infix, Prefix, Postfix Operations
 
 - [Infix to Postfix](https://www.geeksforgeeks.org/problems/infix-to-postfix-1587115620/1)
 - [Postfix to Infix](https://www.geeksforgeeks.org/problems/postfix-to-infix-conversion/0)
@@ -43,7 +41,7 @@
 - [Postfix to Prefix](https://www.geeksforgeeks.org/problems/postfix-to-prefix-conversion/0)
 - [Evaluation of Postfix](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
 
-## Other Questions
+### Other Questions
 
 ### Easy:
 - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
