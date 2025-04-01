@@ -67,8 +67,7 @@
 - `int sumOfDigit(int num) {}`  
 - `int factorial(int n) {}`  
 - `int Fib(int n) {}`  
-- `bool isPalindrome(string &str, int lo, int hi) {}`  
- - `int maxPieces(int N, int a, int b, int c) {}`  // Rope Cutting Problem  
+- `bool isPalindrome(string &str, int lo, int hi) {}`
 - `void towerOfHanoi() {}`  
 - [Josephus Problem](https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/)
 
