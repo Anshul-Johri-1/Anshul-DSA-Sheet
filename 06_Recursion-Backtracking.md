@@ -70,7 +70,7 @@
 - `bool isPalindrome(string &str, int lo, int hi) {}`
 
 #### **Medium**
-- `void towerOfHanoi() {}`  
+- [Tower of Hanoi](https://cses.fi/problemset/task/2165)
 - [Josephus Problem](https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/)
 
 ---
@@ -79,8 +79,6 @@
 
 #### **Medium**
 - [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) 
-- [Word Search](https://leetcode.com/problems/word-search/description/)  
-- [Rat in a Maze Problem](https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)  
 - [Subsets](https://leetcode.com/problems/subsets/description/)  
 - [Subsets II](https://leetcode.com/problems/subsets-ii/description/)  
 - [Permutations](https://leetcode.com/problems/permutations/description/)  
@@ -89,6 +87,8 @@
 - [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)  
 - [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/)  
 - [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/)  
+- [Word Search](https://leetcode.com/problems/word-search/description/)  
+- [Rat in a Maze Problem](https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)  
 - [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/)
 
 #### **Hard**
