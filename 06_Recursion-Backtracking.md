@@ -59,7 +59,7 @@
 
 ---
 
-### **Recursion Concept**
+### **Questions (Recursion)**
 
 #### **Easy**
 - `void Print_N_to_1() {}`  
@@ -68,6 +68,8 @@
 - `int factorial(int n) {}`  
 - `int Fib(int n) {}`  
 - `bool isPalindrome(string &str, int lo, int hi) {}`
+
+#### **Medium**
 - `void towerOfHanoi() {}`  
 - [Josephus Problem](https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/)
 
@@ -76,9 +78,9 @@
 ### **Questions (Backtracking)**
 
 #### **Medium**
+- [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) 
 - [Word Search](https://leetcode.com/problems/word-search/description/)  
 - [Rat in a Maze Problem](https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)  
-- [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)  
 - [Subsets](https://leetcode.com/problems/subsets/description/)  
 - [Subsets II](https://leetcode.com/problems/subsets-ii/description/)  
 - [Permutations](https://leetcode.com/problems/permutations/description/)  
