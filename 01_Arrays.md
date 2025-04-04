@@ -121,6 +121,7 @@ int main() {
     - [Minimum swaps and K together](https://www.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together4847/1)
     - [Subarray with Given Sum](https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1)
     - [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)
+    - [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/description/) [Use O(1) space]
     - [Maximum Subarray Sum – Kadane’s Algorithm](https://leetcode.com/problems/maximum-subarray/)
     - [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/description/)
     - [Maximize i*arr[i] among all Rotations of Array](https://www.geeksforgeeks.org/problems/max-sum-in-the-configuration/1)

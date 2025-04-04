@@ -52,11 +52,11 @@ Since multiple inputs can map to the **same key**, we need to handle **collision
 
 #### **Easy**
 - [Two Sum](https://leetcode.com/problems/two-sum/description/)
-- [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/description/)
-- [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/description/)
 - [Union of Arrays with Duplicates](https://www.geeksforgeeks.org/problems/union-of-two-arrays3538/1)
+- [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/description/)
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)
 - [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)
+- [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/description/)
 
 #### **Medium**
 - [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)
@@ -65,7 +65,6 @@ Since multiple inputs can map to the **same key**, we need to handle **collision
 - [Longest Subarray with Sum K](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1)
 - [Contiguous Array](https://leetcode.com/problems/contiguous-array/description/)
 - [Longest Span in Two Binary Arrays](https://www.geeksforgeeks.org/problems/longest-span-with-same-sum-in-two-binary-arrays5142/1)
-- [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/description/)
 - [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)
 - [Count Distinct Elements in Every Window](https://www.geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1)
 - [Check If Array Pairs Are Divisible by K](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/description/)
