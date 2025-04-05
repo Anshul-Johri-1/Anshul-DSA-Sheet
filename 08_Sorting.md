@@ -40,16 +40,15 @@ In stable sorting, when two elements have the same key, their relative order is 
 
 #### **Medium**
 
-- [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)
 - [Meeting Rooms II](https://www.geeksforgeeks.org/problems/attend-all-meetings-ii/1)
 - [Minimum Platforms](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1)
-- [Merge Without Extra Space](https://www.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1)
+- [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)
+- [Merge Without Extra Space](https://www.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1) [Gap Method]
 - [Minimum Swaps to Sort](https://www.geeksforgeeks.org/problems/minimum-swaps/1)
 - [Minimize the Maximum Difference Between the Heights](https://www.geeksforgeeks.org/problems/minimize-the-heights3351/1)
 - [Largest Number](https://leetcode.com/problems/largest-number/description/)
 
 #### **Hard**
 
-- [Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/)
 - [Count Inversions](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1)
 - [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description/)
