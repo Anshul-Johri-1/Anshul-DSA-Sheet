@@ -61,15 +61,13 @@
 - [Single Number](https://leetcode.com/problems/single-number/description/)
 - [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/description/)
 - [Toggle Bits from L to R](https://www.geeksforgeeks.org/problems/toggle-bits-given-range0952/1)
-- [Add Binary](https://leetcode.com/problems/add-binary/description/)
 
 #### **Medium**
 - [Single Number II](https://leetcode.com/problems/single-number-ii/description/)
 - [Single Number III](https://leetcode.com/problems/single-number-iii/description/)
-- [Power Set using Bitwise](https://leetcode.com/problems/subsets/description/)
+- [Power Set using Bitmask](https://leetcode.com/problems/subsets/description/)
 - [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/)
 - [Counting Bits](https://leetcode.com/problems/counting-bits/description/)
-- [Count Set Bits from 1 to N](https://www.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1)
 
 #### **Hard**
-- (No questions listed)
+- [Count Set Bits from 1 to N](https://www.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1)

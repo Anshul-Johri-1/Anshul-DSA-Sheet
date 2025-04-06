@@ -13,13 +13,13 @@ In stable sorting, when two elements have the same key, their relative order is 
 
 ---
 
-### **Sorting Algorithms with Time and Space Analysis**
+### **Learn Sorting Algorithms with Time and Space Analysis**
 
 - [Bubble Sort](https://www.geeksforgeeks.org/problems/bubble-sort/1)
 - [Selection Sort](https://www.geeksforgeeks.org/problems/selection-sort/1)
 - [Insertion Sort](https://www.geeksforgeeks.org/problems/insertion-sort/1)
 - [Merge Sort](https://www.geeksforgeeks.org/problems/merge-sort/1)
-- [Quick Sort](https://www.geeksforgeeks.org/problems/quick-sort/1)
+- [Quick Sort](https://www.geeksforgeeks.org/problems/quick-sort/1) [Lomuto Partition, Hoare Partition]
 
 #### **Others**
 - Cycle Sort

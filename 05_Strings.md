@@ -41,6 +41,7 @@
 - [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)
 - [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/description/)
 - [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)
+- [Add Strings](https://leetcode.com/problems/add-strings/description/)
 - [Pattern Searching - Naive](https://www.geeksforgeeks.org/problems/pattern-searching5231/1)
 
 #### **Medium**
