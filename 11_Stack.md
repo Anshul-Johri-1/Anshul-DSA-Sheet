@@ -11,9 +11,7 @@
 
 ### Stack Implementations:
 - **Stack using Arrays**: Fixed size array, efficient access, but limited size.
-   
 - **Stack using Linked List**: Dynamic size, no overflow but requires extra memory for pointers.
-
 - **Stack using STL**: Standard Template Library (STL) in C++ provides `std::stack`, which abstracts stack operations and ensures dynamic resizing.
 
 ### Monotonic Stack
