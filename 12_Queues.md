@@ -11,9 +11,10 @@
 - **Queue using STL (Standard Template Library)**: Utilizes the built-in queue data structure in languages like C++ or other similar standard libraries.
 
 ### Queue Problems:
-#### Medium:
-- [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/description/)
-- [Stream First Non-repeating Character](https://www.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1)
+#### Easy:
 - [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/description/)
 - [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/)
 - [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)
+#### Medium:
+- [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/description/)
+- [Stream First Non-repeating Character](https://www.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1)

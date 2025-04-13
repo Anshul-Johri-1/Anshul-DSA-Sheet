@@ -108,6 +108,7 @@ int main() {
 
 - Two Pointers:
     - [Pair Sum in a Sorted and Rotated Array](https://www.geeksforgeeks.org/problems/pair-sum-in-a-sorted-and-rotated-array/1)
+    - [Count pair sum in sorted array](https://www.geeksforgeeks.org/problems/pair-with-given-sum-in-a-sorted-array4940/1)
     - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
     - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)
 

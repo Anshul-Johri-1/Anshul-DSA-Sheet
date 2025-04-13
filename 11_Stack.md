@@ -19,9 +19,9 @@
 ### Monotonic Stack
 
 #### Medium:
-- [Stock Span Problem](https://www.geeksforgeeks.org/problems/stock-span-problem-1587115621/1)
-- [Next Greater Element](https://www.geeksforgeeks.org/problems/next-larger-element-1587115620/1)
+- [Next Greater Element](https://leetcode.com/problems/next-greater-element-i/)
 - [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/description/)
+- [Online Stock Span](https://leetcode.com/problems/online-stock-span/)
 - [Remove K Digits](https://leetcode.com/problems/remove-k-digits/description/)
 - [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/description/)
 - [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/description/)
@@ -37,8 +37,8 @@
 - [Postfix to Infix](https://www.geeksforgeeks.org/problems/postfix-to-infix-conversion/0)
 - **Infix to Prefix**
 - [Prefix to Infix](https://www.geeksforgeeks.org/problems/prefix-to-infix-conversion/0)
-- [Prefix to Postfix](https://www.geeksforgeeks.org/problems/prefix-to-postfix-conversion/0)
 - [Postfix to Prefix](https://www.geeksforgeeks.org/problems/postfix-to-prefix-conversion/0)
+- [Prefix to Postfix](https://www.geeksforgeeks.org/problems/prefix-to-postfix-conversion/0)
 - [Evaluation of Postfix](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
 
 ### Other Questions
@@ -47,8 +47,8 @@
 - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
 
 ### Medium:
-- [Min Stack](https://leetcode.com/problems/min-stack/description/). Follow-up: Use O(1) space.
+- [Min Stack](https://leetcode.com/problems/min-stack/description/)
 - [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/description/)
 
 ### Hard:
-- [Longest Valid Parentheses](https://www.geeksforgeeks.org/problems/longest-valid-parentheses5657/1)
+- [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/)
