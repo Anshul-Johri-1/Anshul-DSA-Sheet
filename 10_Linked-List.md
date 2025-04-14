@@ -134,5 +134,4 @@ signed main() {
 - [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/)
 - [LRU Cache](https://leetcode.com/problems/lru-cache/description/)
 - [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)
-- [Merge K Sorted Linked Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)
 - [LFU Cache](https://leetcode.com/problems/lfu-cache/description/)
