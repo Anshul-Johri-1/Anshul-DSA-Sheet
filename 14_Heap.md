@@ -68,8 +68,8 @@ int main() {
 - [Binary Heap Operations](https://www.geeksforgeeks.org/problems/operations-on-binary-min-heap/1)
 - [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
 - [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)
-- [Merge k Sorted Arrays](https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1)
-- [Sort a nearly sorted array](https://www.geeksforgeeks.org/problems/nearly-sorted-1587115620/1)
+- [Merge K Sorted Arrays](https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1)
+- [Sort K sorted array](https://www.geeksforgeeks.org/problems/nearly-sorted-1587115620/1)
 - [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)
 
 #### **Hard**
