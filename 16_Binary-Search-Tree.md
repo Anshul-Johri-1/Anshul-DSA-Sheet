@@ -4,6 +4,8 @@
 - [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/description/)
 - [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/)
 - [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)
+- [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/)
+
 #### Medium
 - [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/)
 - [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)
@@ -11,7 +13,6 @@
 - [Predecessor and Successor](https://www.geeksforgeeks.org/problems/predecessor-and-successor/1)
 - [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/)
 - [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)
-- [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/)
 - [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)
 - [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/description/)
 - [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)
