@@ -6,13 +6,13 @@
 - [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)
 - [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)
 - [K distance from root](https://www.geeksforgeeks.org/problems/k-distance-from-root/1)
-- [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/description/)
 - [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/description/) (Solve in better than O(n))
 - [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)
 
 #### Medium
 - [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
 - [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)
+- [Children Sum in a Binary Tree](https://www.geeksforgeeks.org/problems/children-sum-parent/1)
 - [Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
 - [Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/)
 - [Diagonal Tree Traversal](https://www.geeksforgeeks.org/problems/diagonal-traversal-of-binary-tree/1)
