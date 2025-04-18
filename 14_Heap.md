@@ -15,7 +15,7 @@ By default, `priority_queue` in C++ implements a **max heap**. To change the ord
 #### 1. Using `greater<int>` for a Min Heap
 ```cpp
 int main() {
-    priority_queue<int, vector<int>, greater<int>> pq;
+    priority_queue<int, vector<int>, greater<>> pq;
 }
 ```
 
@@ -48,7 +48,7 @@ int main() {
     unordered_map<int, int> freq;
     
     auto cmp = [&freq](const auto &a, const auto &b) -> bool {
-        return freq[a] < freq[b]; // lower frequency gets higher priority
+        return freq[a] > freq[b]; // lower frequency gets higher priority
     };
 
     priority_queue<int, vector<int>, decltype(cmp)> pq(cmp);
