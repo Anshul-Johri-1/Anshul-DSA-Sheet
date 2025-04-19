@@ -1,6 +1,6 @@
-### **Linked Lists**
+### Linked Lists
 
-#### **Advantages of Linked Lists over Arrays**
+#### Advantages of Linked Lists over Arrays
 
 - **Dynamic Size:** Unlike arrays, linked lists do not require a predefined size and can grow or shrink dynamically without memory reallocation.
 - **Efficient Insertions & Deletions:** Inserting or deleting an element in a linked list (given a pointer to the node) is **O(1)**, while in an array, it can take **O(n)** due to shifting elements.
@@ -10,9 +10,9 @@
 
 ---
 
-### **Types of Linked Lists**
+### Types of Linked Lists
 
-#### **Singly Linked List**
+#### Singly Linked List
 
 ```cpp
 struct Node {  
@@ -39,7 +39,7 @@ signed main() {
 }
 ```
 
-#### **Circular Linked List**
+#### Circular Linked List
 
 ```cpp
 struct Node {  
@@ -68,7 +68,7 @@ signed main() {
 }
 ```
 
-#### **Doubly Linked List**
+#### Doubly Linked List
 
 ```cpp
 struct Node {  
@@ -95,7 +95,7 @@ signed main() {
 
 ---
 
-### **Conceptual Questions**
+### Conceptual Questions
 
 - `void printList(Node *head) {}`
 - `Node *insertBegin(Node *head) {}`
@@ -106,9 +106,9 @@ signed main() {
 
 ---
 
-### **Questions**
+### Questions
 
-#### **Easy**
+#### Easy
 - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
 - [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/)
 - [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)
@@ -118,7 +118,7 @@ signed main() {
 - [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)
 
-#### **Medium**
+#### Medium
 - [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/)
 - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
 - [Rotate List](https://leetcode.com/problems/rotate-list/description/)
@@ -130,7 +130,7 @@ signed main() {
 - [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/description/)
 - [Sort List (Use Merge Sort)](https://leetcode.com/problems/sort-list/description/)
 
-#### **Hard**
+#### Hard
 - [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/)
 - [LRU Cache](https://leetcode.com/problems/lru-cache/description/)
 - [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)

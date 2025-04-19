@@ -47,21 +47,21 @@
 
 ---
 
-### **Questions**
+### Questions
 
-- **Easy**:
-  - [Print Matrix in Snake Pattern](https://www.geeksforgeeks.org/problems/print-matrix-in-snake-pattern-1587115621/1)
-  - [Matrix Boundary Traversal](https://www.geeksforgeeks.org/problems/boundary-traversal-of-matrix-1587115620/0)
+#### Easy
+- [Print Matrix in Snake Pattern](https://www.geeksforgeeks.org/problems/print-matrix-in-snake-pattern-1587115621/1)
+- [Matrix Boundary Traversal](https://www.geeksforgeeks.org/problems/boundary-traversal-of-matrix-1587115620/0)
 
-- **Medium**:
-  - [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)
-  - [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)
-  - [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/)
-  - [Rotate Image](https://leetcode.com/problems/rotate-image/description/)
-  - [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
-  - [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/)
-  - [Multiply Matrices](https://www.geeksforgeeks.org/problems/multiply-matrices/1)
-  - [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)
+#### Medium
+- [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)
+- [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)
+- [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/)
+- [Rotate Image](https://leetcode.com/problems/rotate-image/description/)
+- [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
+- [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/)
+- [Multiply Matrices](https://www.geeksforgeeks.org/problems/multiply-matrices/1)
+- [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)
 
-- **Hard**:
-  - [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/description/)
+#### Hard
+- [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/description/)

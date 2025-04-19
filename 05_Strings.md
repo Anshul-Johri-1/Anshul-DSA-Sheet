@@ -1,4 +1,4 @@
-### **C Style String**
+### C Style String
 
 - `char s1[] = "hello";`
   - This initializes a **C-style string** using a character array. It automatically appends a **null terminator (`\0`)** at the end to mark the end of the string.
@@ -8,7 +8,7 @@
 
 ---
 
-### **C++ String**
+### C++ String
 
 - `string str = "hello";`
   - This initializes a **C++ string** using the `string` class, which is more flexible than C-style strings. It handles memory management and includes many built-in functions for string manipulation.
@@ -24,13 +24,13 @@
 
 ---
 
-### **Questions**
+### Questions
 
-#### **Basic**
+#### Basic
 - [Binary To Decimal](https://www.geeksforgeeks.org/problems/binary-number-to-decimal-number3525/1)
 - [Decimal To Binary](https://www.geeksforgeeks.org/problems/decimal-to-binary-1587115620/1)
 
-#### **Easy**
+#### Easy
 - [Check if Strings are Rotations](https://leetcode.com/problems/rotate-string/description/)
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
 - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
@@ -44,7 +44,7 @@
 - [Add Strings](https://leetcode.com/problems/add-strings/description/)
 - [Pattern Searching - Naive](https://www.geeksforgeeks.org/problems/pattern-searching5231/1)
 
-#### **Medium**
+#### Medium
 - [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/)
 - [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/)
 - [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)
@@ -56,7 +56,7 @@
 - [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
 - [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/)
 
-#### **Hard**
+#### Hard
 - [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)
 - [Substrings with K Distinct](https://www.geeksforgeeks.org/problems/count-number-of-substrings4528/1)
 - [Pattern Searching - KMP](https://www.geeksforgeeks.org/problems/search-pattern0205/1)

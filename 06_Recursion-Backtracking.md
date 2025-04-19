@@ -1,4 +1,4 @@
-### **Function Executions**
+### Function Executions
 
 - **Statements are executed line-by-line**:
   - Functions execute sequentially, starting from the top and moving down, with control transferred to other functions when they are called.
@@ -25,7 +25,7 @@
 
 ---
 
-### **Output**:
+### Output
 - Before fun2  
 - Before fun1  
 - fun1  
@@ -34,7 +34,7 @@
 
 ---
 
-### **Recursion Dry Run**
+### Recursion Dry Run
 
 - **Recursive Function Example**:
   ```cpp
@@ -59,9 +59,9 @@
 
 ---
 
-### **Questions (Recursion)**
+### Questions (Recursion)
 
-#### **Easy**
+#### Easy
 - `void Print_N_to_1() {}`  
 - `void Print_1_to_N() {}`
 - `int sumOfDigit(int num) {}`  
@@ -69,15 +69,15 @@
 - `int Fib(int n) {}`  
 - `bool isPalindrome(string &str, int lo, int hi) {}`
 
-#### **Medium**
+#### Medium
 - [Tower of Hanoi](https://cses.fi/problemset/task/2165)
 - [Josephus Problem](https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/)
 
 ---
 
-### **Questions (Backtracking)**
+### Questions (Backtracking)
 
-#### **Medium**
+#### Medium
 - [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) 
 - [Subsets](https://leetcode.com/problems/subsets/description/)  
 - [Subsets II](https://leetcode.com/problems/subsets-ii/description/)  
@@ -91,7 +91,7 @@
 - [Rat in a Maze Problem](https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)  
 - [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/)
 
-#### **Hard**
+#### Hard
 - [N-Queens](https://leetcode.com/problems/n-queens/description/)  
 - [N-Queens II](https://leetcode.com/problems/n-queens-ii/description/)  
 - [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/)  

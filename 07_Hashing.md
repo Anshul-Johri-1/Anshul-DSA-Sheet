@@ -1,4 +1,4 @@
-### **Introduction to Hashing**
+### Introduction to Hashing
 
 - Hashing allows **Search, Insert, and Delete in O(1) time on average**.
 - It maps **large values to small keys** using a **hash function**.
@@ -6,7 +6,7 @@
 
 ---
 
-### **Direct Address Table (Perfect Hashing)**
+### Direct Address Table (Perfect Hashing)
 
 - Works when the key range is **small and known in advance**.
 - Example: If **x is in the range [0, 999]**, we can use a direct address table with an array of size 1000.
@@ -19,7 +19,7 @@
 
 ---
 
-### **Hash Function**
+### Hash Function
 
 - Converts a **large input value** into a **smaller key** in the range `[0, m-1]`.
 - A common technique is **Modulo-based Hashing**, where `x % m` is used to determine the hash index, with `m` being a prime number.
@@ -30,7 +30,7 @@
 
 ---
 
-### **Collision Handling**
+### Collision Handling
 
 Since multiple inputs can map to the **same key**, we need to handle **collisions**:
 
@@ -48,9 +48,9 @@ Since multiple inputs can map to the **same key**, we need to handle **collision
 
 ---
 
-### **Questions**
+### Questions
 
-#### **Easy**
+#### Easy
 - [Two Sum](https://leetcode.com/problems/two-sum/description/)
 - [Union of Arrays with Duplicates](https://www.geeksforgeeks.org/problems/union-of-two-arrays3538/1)
 - [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/description/)
@@ -58,7 +58,7 @@ Since multiple inputs can map to the **same key**, we need to handle **collision
 - [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)
 - [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/description/)
 
-#### **Medium**
+#### Medium
 - [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)
 - [Subarray with Zero Sum](https://www.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1)
 - [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/)
@@ -72,7 +72,7 @@ Since multiple inputs can map to the **same key**, we need to handle **collision
 - [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)
 - [Longest Subarray with Sum Divisible by K](https://www.geeksforgeeks.org/problems/longest-subarray-with-sum-divisible-by-k1259/1)
 
-#### **Hard**
+#### Hard
 - [4 Sum – Count Quadruplets with Given Sum](https://www.geeksforgeeks.org/problems/count-quadruplets-with-given-sum/1)
 - [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/description/)
 - [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/)

@@ -1,9 +1,9 @@
-### **Stable and Unstable Sorting Algorithms**
+### Stable and Unstable Sorting Algorithms
 
 - **Stable Sort:** Bubble Sort, Insertion Sort, Merge Sort  
 - **Unstable Sort:** Selection Sort, Quick Sort, Heap Sort
 
-#### **Example:**
+#### Example:
 
 Given array: `[(1, "Hello"), (2, "Mentor"), (1, "Anshul")]`
 
@@ -13,7 +13,7 @@ In stable sorting, when two elements have the same key, their relative order is 
 
 ---
 
-### **Learn Sorting Algorithms with Time and Space Analysis**
+### Learn Sorting Algorithms with Time and Space Analysis
 
 - [Bubble Sort](https://www.geeksforgeeks.org/problems/bubble-sort/1)
 - [Selection Sort](https://www.geeksforgeeks.org/problems/selection-sort/1)
@@ -21,7 +21,7 @@ In stable sorting, when two elements have the same key, their relative order is 
 - [Merge Sort](https://www.geeksforgeeks.org/problems/merge-sort/1)
 - [Quick Sort](https://www.geeksforgeeks.org/problems/quick-sort/1) [Lomuto Partition, Hoare Partition]
 
-#### **Others**
+#### Others
 - Cycle Sort
 - Counting Sort
 - Bucket Sort
@@ -30,16 +30,14 @@ In stable sorting, when two elements have the same key, their relative order is 
 
 ---
 
-### **Questions**
+### Questions
 
-#### **Easy**
-
+#### Easy
 - [Chocolate Distribution Problem](https://www.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1)
 - [Meeting Rooms](https://www.geeksforgeeks.org/problems/attend-all-meetings/1)
 - [Max Meetings in One Room](https://www.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1)
 
-#### **Medium**
-
+#### Medium
 - [Meeting Rooms II](https://www.geeksforgeeks.org/problems/attend-all-meetings-ii/1)
 - [Minimum Platforms](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1)
 - [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)
@@ -48,7 +46,6 @@ In stable sorting, when two elements have the same key, their relative order is 
 - [Minimize the Maximum Difference Between the Heights](https://www.geeksforgeeks.org/problems/minimize-the-heights3351/1)
 - [Largest Number](https://leetcode.com/problems/largest-number/description/)
 
-#### **Hard**
-
+#### Hard
 - [Count Inversions](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1)
 - [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description/)

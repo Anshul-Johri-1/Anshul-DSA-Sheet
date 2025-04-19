@@ -57,13 +57,13 @@ int main() {
 
 ---
 
-### **Questions**
+### Questions
 
-#### **Easy**
+#### Easy
 - [Minimum Cost of ropes](https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1)
 - [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/)
 
-#### **Medium**
+#### Medium
 - [Heap Sort](https://www.geeksforgeeks.org/problems/heap-sort/1)
 - [Binary Heap Operations](https://www.geeksforgeeks.org/problems/operations-on-binary-min-heap/1)
 - [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
@@ -72,7 +72,7 @@ int main() {
 - [Sort K sorted array](https://www.geeksforgeeks.org/problems/nearly-sorted-1587115620/1)
 - [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)
 
-#### **Hard**
+#### Hard
 - [Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/)
 - [Merge K Sorted Linked Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)
 - [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/)
