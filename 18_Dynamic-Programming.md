@@ -10,6 +10,8 @@
     - [House Robber](https://leetcode.com/problems/house-robber/description/)
     - [House Robber II](https://leetcode.com/problems/house-robber-ii/description/)
     - [Frog Jump](https://www.geeksforgeeks.org/problems/geek-jump/1)
+    - [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/)
+    - [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/)
 
 - Matrix DP
     - [Unique Paths](https://leetcode.com/problems/unique-paths/description/)
@@ -19,13 +21,12 @@
     - [Triangle](https://leetcode.com/problems/triangle/description/)
     - [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/description/)
 
-- Standard
+- Take or Not Take
     - [0 - 1 Knapsack Problem](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1)
     - [Knapsack with Duplicate Items](https://www.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1)
-    - [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)
-    - [Word Break](https://leetcode.com/problems/word-break/description/)
     - [Coin Change](https://leetcode.com/problems/coin-change/description/)
     - [Coin Change II](https://leetcode.com/problems/coin-change-ii/description/)
+    - [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)
 
 - LCS
     - [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/)
@@ -44,12 +45,10 @@
     - [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/)
 
 - Others
+    - [Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/description/)
+    - [Word Break](https://leetcode.com/problems/word-break/description/)
     - [Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/)
     - [Optimal Strategy For A Game](https://www.geeksforgeeks.org/problems/optimal-strategy-for-a-game-1587115620/1)
-    - [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/)
-    - [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/)
-    - [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/)
-    - [Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/description/)
     - [Nth Catalan Number](https://www.geeksforgeeks.org/problems/nth-catalan-number0817/1)
     - [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/)
 
@@ -66,6 +65,7 @@
 - [Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/description/)
 - [Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/description/)
 - [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/)
+- [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/)
 - [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/)
 - [Boolean Parenthesization](https://www.geeksforgeeks.org/problems/boolean-parenthesization5610/1)
 - [Burst Balloons](https://leetcode.com/problems/burst-balloons/description/)
