@@ -133,6 +133,7 @@ int main() {
     - [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)
     - [Majority Element](https://leetcode.com/problems/majority-element/) + [Majority Element (-1 case)](https://www.geeksforgeeks.org/problems/majority-element-1587115620/1)
     - [Majority Element II](https://leetcode.com/problems/majority-element-ii/description/)
+    - [Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/description/)
     - [Sum of All Subarrays](https://www.geeksforgeeks.org/problems/sum-of-subarrays2229/1)
     - [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)
     - [Next Permutation](https://leetcode.com/problems/next-permutation/description/)

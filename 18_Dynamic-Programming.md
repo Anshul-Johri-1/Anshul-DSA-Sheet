@@ -53,21 +53,29 @@
     - [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/)
 
 #### Hard
-- [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/)
-- [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/description/)
-- [Matrix Chain Multiplication](https://www.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1)
-- [Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/description/)
-- [Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/description/)
+- LCS
+    - [Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/description/)
+    - [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/)
+    - [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)
+
+- LIS
+    - [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/)
+    - [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/description/)
+
+- Partition DP
+    - [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/description/)
+
+- MCM
+    - [Matrix Chain Multiplication](https://www.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1)
+    - [Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/description/)
+    - [Boolean Parenthesization](https://www.geeksforgeeks.org/problems/boolean-parenthesization5610/1)
+
 - [Super Egg Drop](https://leetcode.com/problems/super-egg-drop/description/)
-- [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/)
-- [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)
 - [Frog Jump](https://leetcode.com/problems/frog-jump/description/)
 - [Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/description/)
 - [Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/description/)
 - [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/)
 - [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/)
 - [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/)
-- [Boolean Parenthesization](https://www.geeksforgeeks.org/problems/boolean-parenthesization5610/1)
 - [Burst Balloons](https://leetcode.com/problems/burst-balloons/description/)
 - [Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/description/)
-- [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/description/)
