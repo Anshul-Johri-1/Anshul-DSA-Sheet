@@ -72,9 +72,10 @@
     - [Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/description/)
     - [Boolean Parenthesization](https://www.geeksforgeeks.org/problems/boolean-parenthesization5610/1)
 
-- [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) (1D DP)
-- [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) (3D DP)
-- [Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/description/) (Meet in the Middle)
-- [Frog Jump](https://leetcode.com/problems/frog-jump/description/)
-- [Super Egg Drop](https://leetcode.com/problems/super-egg-drop/description/)
-- [Burst Balloons](https://leetcode.com/problems/burst-balloons/description/)
+- Others
+    - [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) (1D DP)
+    - [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) (3D DP)
+    - [Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/description/) (Meet in the Middle)
+    - [Frog Jump](https://leetcode.com/problems/frog-jump/description/)
+    - [Super Egg Drop](https://leetcode.com/problems/super-egg-drop/description/)
+    - [Burst Balloons](https://leetcode.com/problems/burst-balloons/description/)
