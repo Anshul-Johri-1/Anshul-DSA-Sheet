@@ -54,6 +54,8 @@
 
 #### Hard
 - LCS
+    - [Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/description/)
+    - [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/)
     - [Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/description/)
     - [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/)
     - [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)
@@ -70,12 +72,9 @@
     - [Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/description/)
     - [Boolean Parenthesization](https://www.geeksforgeeks.org/problems/boolean-parenthesization5610/1)
 
-- [Super Egg Drop](https://leetcode.com/problems/super-egg-drop/description/)
+- [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) (1D DP)
+- [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) (3D DP)
+- [Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/description/) (Meet in the Middle)
 - [Frog Jump](https://leetcode.com/problems/frog-jump/description/)
-- [Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/description/)
-- [Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/description/)
-- [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/)
-- [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/)
-- [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/)
+- [Super Egg Drop](https://leetcode.com/problems/super-egg-drop/description/)
 - [Burst Balloons](https://leetcode.com/problems/burst-balloons/description/)
-- [Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/description/)

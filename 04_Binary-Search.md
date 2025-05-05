@@ -19,6 +19,7 @@
 #### Medium
 - [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/)
 - [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/)
+- [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/)
 #### Hard
 - [Allocate Minimum Pages](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1)
 - [Aggressive Cows](https://www.geeksforgeeks.org/problems/aggressive-cows/0)
