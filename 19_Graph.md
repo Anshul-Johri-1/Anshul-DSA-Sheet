@@ -10,7 +10,7 @@
 - [Shortest path with Negative Weight also](https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1) (Bellman-Ford Algorithm)
 - [Detect a Negative Cycle](https://www.geeksforgeeks.org/problems/negative-weight-cycle3504/1) (Bellman-Ford Algorithm)
 - [Shortest path for all Pairs](https://www.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1) (Floyd Warshall)
-- [Disjoint Set (Union-Find Algorithm)](https://www.geeksforgeeks.org/problems/disjoint-set-union-find/1) (Union by Rank/Size)
+- [Disjoint Set (Union-Find Algorithm)](https://cp-algorithms.com/data_structures/disjoint_set_union.html) (Union by Rank/Size)
 - [Minimum Spanning Tree](https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1) (Prim's Algorithm, Kruskal's Algorithm)
 - [Strongly Connected Component](https://www.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1) (Kosaraju's Algorithm, Tarjan's Algorithm)
 - [Bridges in a Graph](https://leetcode.com/problems/critical-connections-in-a-network/) (Using Tarjan's Algorithm)
