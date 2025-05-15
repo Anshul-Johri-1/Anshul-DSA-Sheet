@@ -12,9 +12,11 @@
 - [Shortest path for all Pairs](https://www.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1) (Floyd Warshall)
 - [Disjoint Set (Union-Find Algorithm)](https://cp-algorithms.com/data_structures/disjoint_set_union.html) (Union by Rank/Size)
 - [Minimum Spanning Tree](https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1) (Prim's Algorithm, Kruskal's Algorithm)
-- [Strongly Connected Component](https://www.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1) (Kosaraju's Algorithm, Tarjan's Algorithm)
-- [Bridges in a Graph](https://leetcode.com/problems/critical-connections-in-a-network/) (Using Tarjan's Algorithm)
-- [Articulation Point in a Graph](https://www.geeksforgeeks.org/problems/articulation-point2616/1) (Using Tarjan's Algorithm)
+- [Strongly Connected Component - Kosaraju Algorithm](https://www.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1) (Kosaraju's Algorithm)
+- Tarjan's Algorithm
+  - [Strongly Connected Component](https://www.geeksforgeeks.org/problems/strongly-connected-component-tarjanss-algo-1587115621/1)
+  - [Bridges in a Graph](https://leetcode.com/problems/critical-connections-in-a-network/)
+  - [Articulation Point in a Graph](https://www.geeksforgeeks.org/problems/articulation-point2616/1)
 - Euler Path and Circuit (Use Google)
 - Hamiltonian Path and Circuit (Use Google)
 
