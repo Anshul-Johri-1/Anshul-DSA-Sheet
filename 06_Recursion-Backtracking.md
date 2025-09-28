@@ -82,7 +82,8 @@ A great sheet if you want to start from the basics:
 #### Medium
 - [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) 
 - [Subsets](https://leetcode.com/problems/subsets/description/)  
-- [Subsets II](https://leetcode.com/problems/subsets-ii/description/)  
+- [Subsets II](https://leetcode.com/problems/subsets-ii/description/)
+- [Combinations](https://leetcode.com/problems/combinations/description/)
 - [Permutations](https://leetcode.com/problems/permutations/description/)  
 - [Permutations II](https://leetcode.com/problems/permutations-ii/description/)  
 - [Combination Sum](https://leetcode.com/problems/combination-sum/description/)  
