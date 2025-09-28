@@ -60,6 +60,8 @@
 ---
 
 ### Questions (Recursion)
+A great sheet if you want to start from the basics:
+- [Assiut University Training - RECURSION](https://codeforces.com/group/MWSDmqGsZm/contest/223339)
 
 #### Easy
 - `void Print_N_to_1() {}`  
